@@ -1,0 +1,5 @@
+Nama : Mochamad Ilham Nur Adzim
+NPM : 25081010310
+Mata Kuliah : Operating System
+Materi : Multithreading
+Bahasa : C++
